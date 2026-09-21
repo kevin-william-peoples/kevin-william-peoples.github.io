@@ -7,4 +7,4 @@ Welcome to my portfolio.
 
 ---
 
-[Home](/) | [About](/about/) | [Projects](/projects/) | [Experience](/experience/) | [Research](/research/) | [Contact](/contact/)
+{% include navigation.html %}
