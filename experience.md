@@ -16,3 +16,13 @@ Supported students with computing and programming concepts across courses focuse
 Guided students through concepts including programming fundamentals, algorithms, abstraction, data and analysis, digital systems, and project development.
 
 **Key Areas:** Programming Fundamentals, Computational Thinking, Algorithms, Digital Systems, Technical Mentoring
+
+## Mathematics Tutor – ERC 89 Practicum
+
+**University of California, San Diego — January 2024 – March 2024**
+
+Provided one-on-one mathematics tutoring to students in a public high school setting as part of UC San Diego's ERC 89 Practicum in Math Tutoring.
+
+Supported students through individualized instruction and structured problem-solving while developing experience in mathematics tutoring and pedagogy.
+
+**Key Areas:** Mathematics, One-on-One Tutoring, Problem-Solving, Pedagogy
