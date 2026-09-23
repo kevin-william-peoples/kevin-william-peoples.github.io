@@ -7,6 +7,16 @@ permalink: /experience/
 
 # Experience
 
+## Frontend Engineering Intern
+
+**AutomatiqIQ — April 2026 – September 2026**
+
+Developed responsive and user-focused interfaces for an AI-powered web platform using React.js and Tailwind CSS.
+
+Built reusable components, implemented UI/UX improvements, and integrated frontend functionality with APIs to deliver seamless and performant user experiences.
+
+**Key Areas:** Frontend Development, React.js, Tailwind CSS, UI/UX, API Integration
+
 ## Technical Tutor – EDS 124AR & EDS 124BR
 
 **University of California, San Diego — June 2025 – September 2025**
