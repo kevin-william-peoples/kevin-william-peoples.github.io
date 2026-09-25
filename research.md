@@ -7,13 +7,8 @@ permalink: /research/
 
 # Research & Publications
 
- **Kevin William Peoples**  
-International Journal of Innovative Science and Research Technology (IJISRT), 2025
+## International Journal of Innovative Science and Research Technology (IJISRT), 2025
 
 [Lateral Movement Detection in Enterprise Networks Using Temporal Graph Attention Networks (T-GATs)](https://www.ijisrt.com/lateral-movement-detection-in-enterprise-networks-using-temporal-graph-attention-networks-tgats)
-
-
-**Kevin William Peoples**  
-Publication details here
 
 [Deep Learning Techniques for Ransomware Detection and Prevention](https://www.ijsr.net/getabstract.php?paperid=SR251110122231)
