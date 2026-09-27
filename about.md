@@ -39,7 +39,6 @@ Graduated June 2026
 
 **Google Cybersecurity Professional Certificate — Google**  
 August 2026
-
 [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/U9ZN7ARGER7B?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 [View additional certifications on LinkedIn](https://www.linkedin.com/in/kevin-william-peoples/details/certifications/)
