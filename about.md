@@ -35,3 +35,12 @@ September 2026 – Present
 **B.S. in Computer Science**  
 Graduated June 2026
 
+## Certifications
+
+**Google Cybersecurity Professional Certificate — Google**  
+August 2026
+
+**Foundations of Prompt Engineering — Amazon Web Services (AWS)**  
+June 2026
+
+[View additional certifications on LinkedIn](https://www.linkedin.com/in/kevin-william-peoples/details/certifications/)
