@@ -42,9 +42,4 @@ August 2026
 
 [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/U9ZN7ARGER7B?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
-**Foundations of Prompt Engineering — Amazon Web Services (AWS)**  
-June 2026
-
-[View Credential](https://www.linkedin.com/in/kevin-william-peoples/overlay/Certifications/40512976/treasury/?profileId=ACoAAEU8A2UB6OlvGD3krfEX7nQ_v7QhQzoi_Bs)
-
 [View additional certifications on LinkedIn](https://www.linkedin.com/in/kevin-william-peoples/details/certifications/)
