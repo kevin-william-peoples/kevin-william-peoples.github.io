@@ -3,7 +3,7 @@
 
 # Hi, I'm Kevin Peoples.
 
-**M.S. Cybersecurity Student at NYU Tandon | B.S. Computer Science, UC San Diego**
+**M.S. Cybersecurity Student at NYU Tandon** — B.S. Computer Science, UC San Diego
 
 I'm a cybersecurity master's student with a background in computer science and experience in frontend software engineering, technical education, and cybersecurity research.
 
@@ -17,4 +17,4 @@ My interests include software engineering, application security, network securit
 - [Research & Publications](/research/) — Read about my cybersecurity research.
 - [Contact](/contact/) — Connect with me.
 
-**[GitHub](https://github.com/kevin-william-peoples) | [LinkedIn](https://www.linkedin.com/in/kevin-william-peoples/)**
+[GitHub](https://github.com/kevin-william-peoples) · [LinkedIn](https://www.linkedin.com/in/kevin-william-peoples/)
