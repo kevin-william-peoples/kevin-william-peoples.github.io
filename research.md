@@ -7,8 +7,6 @@ permalink: /research/
 
 {% include navigation.html %}
 
-{% include navigation.html %}
-
 # Research & Publications
 
 ## Lateral Movement Detection in Enterprise Networks Using Temporal Graph Attention Networks (T-GATs)
