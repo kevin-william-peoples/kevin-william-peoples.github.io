@@ -1,17 +1,15 @@
 
 ---
 layout: default
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 ---
 
 {% include navigation.html %}
 
 # Projects
 
-## Featured Project
-
-### Secure Notes App
+## Secure Notes App
 
 **Independent Software Engineering & Cybersecurity Project**
 
@@ -23,11 +21,7 @@ A personal project focused on developing a secure notes application.
 
 ---
 
-## Cybersecurity Practical Exercises
-
-The following exercises were completed as part of the Google Cybersecurity Professional Certificate on Coursera. They demonstrate practical applications of cybersecurity concepts through simulated scenarios and hands-on activities.
-
-### Internal Security Audit & Compliance Assessment
+## Internal Security Audit & Compliance Assessment
 
 **Google Cybersecurity Professional Certificate — Coursera**
 
@@ -37,7 +31,9 @@ Conducted an internal security audit for a fictional organization, Botium Toys, 
 
 **Recommendation:** Identified a need to strengthen administrative and managerial controls, particularly separation of duties and least privilege.
 
-### DoS Incident Response Analysis Using NIST CSF
+---
+
+## DoS Incident Response Analysis Using NIST CSF
 
 **Google Cybersecurity Professional Certificate — Coursera**
 
@@ -47,7 +43,9 @@ Analyzed a simulated denial-of-service (DoS) attack involving a flood of ICMP pa
 
 **Security Measures:** Evaluated firewall rules, source IP verification, network monitoring, and IDS/IPS controls to improve detection and mitigation of malicious network traffic.
 
-### Linux File Permissions and Access Control
+---
+
+## Linux File Permissions and Access Control
 
 **Google Cybersecurity Professional Certificate — Coursera**
 
@@ -59,7 +57,9 @@ Managed file and directory permissions in a Linux environment to ensure users ha
 
 **Tasks Performed:** Interpreted Linux permission strings, modified user and group permissions, secured hidden files, and restricted directory access to authorized users.
 
-### Vulnerability Assessment and Risk Analysis
+---
+
+## Vulnerability Assessment and Risk Analysis
 
 **Google Cybersecurity Professional Certificate — Coursera**
 
@@ -71,7 +71,9 @@ Conducted a qualitative vulnerability assessment of a publicly accessible databa
 
 **Tasks Performed:** Identified threat sources and threat events, assessed likelihood and severity, calculated risk scores, and proposed security controls to reduce identified risks.
 
-### Ransomware Incident Analysis
+---
+
+## Ransomware Incident Analysis
 
 **Google Cybersecurity Professional Certificate — Coursera**
 
@@ -79,9 +81,11 @@ Analyzed a simulated ransomware incident affecting a healthcare organization and
 
 **Key Areas:** Incident Response, Ransomware, Phishing, Incident Documentation
 
-**Tasks Performed:** Documented the incident using the 5 W's framework, identified the attack vector and impact on business operations, and recorded security observations and potential preventive measures.
+**Tasks Performed:** Documented the incident using the 5 W's framework, identified the attack vector and impact on business operations, and recorded security observations and potential preventative measures.
 
-### Access Control Automation with Python
+---
+
+## Access Control Automation with Python
 
 **Google Cybersecurity Professional Certificate — Coursera**
 
