@@ -1,7 +1,10 @@
 ---
-title: Contact
-permalink: /contact/
+layout: default
+title: Research
+permalink: /research/
 ---
+
+{% include navigation.html %}
 
 {% include navigation.html %}
 
