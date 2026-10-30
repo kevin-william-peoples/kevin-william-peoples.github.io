@@ -1,0 +1,58 @@
+
+/* General layout */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  color: #1f2937;
+  background-color: #ffffff;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #111827;
+  line-height: 1.3;
+}
+
+/* Links */
+a {
+  color: #0969da;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation */
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  padding: 15px 0;
+  margin-bottom: 25px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+nav a {
+  font-weight: 500;
+}
+
+/* Content spacing */
+p {
+  margin-bottom: 18px;
+}
+
+h2 {
+  margin-top: 35px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  body {
+    padding: 15px;
+  }
+
+  nav {
+    gap: 12px;
+  }
+}
