@@ -1,3 +1,4 @@
+
 ---
 title: Research
 permalink: /research/
@@ -7,10 +8,18 @@ permalink: /research/
 
 # Research & Publications
 
-## International Journal of Innovative Science and Research Technology (IJISRT), 2025
+## Lateral Movement Detection in Enterprise Networks Using Temporal Graph Attention Networks (T-GATs)
 
-[Lateral Movement Detection in Enterprise Networks Using Temporal Graph Attention Networks (T-GATs)](https://www.ijisrt.com/lateral-movement-detection-in-enterprise-networks-using-temporal-graph-attention-networks-tgats)
+**Publication:** International Journal of Innovative Science and Research Technology (IJISRT)  
+**Year:** 2025
 
-## International Journal of Science and Research (IJSR), 2025
+[View Publication](https://www.ijisrt.com/lateral-movement-detection-in-enterprise-networks-using-temporal-graph-attention-networks-tgats)
 
-[Deep Learning Techniques for Ransomware Detection and Prevention](https://www.ijsr.net/getabstract.php?paperid=SR251110122231)
+---
+
+## Deep Learning Techniques for Ransomware Detection and Prevention
+
+**Publication:** International Journal of Science and Research (IJSR)  
+**Year:** 2025
+
+[View Publication](https://www.ijsr.net/getabstract.php?paperid=SR251110122231)
