@@ -6,8 +6,6 @@ permalink: /research/
 
 {% include navigation.html %}
 
-{% include navigation.html %}
-
 # Contact
 Feel free to reach out to me regarding cybersecurity, software engineering, research, or professional opportunities.
 
