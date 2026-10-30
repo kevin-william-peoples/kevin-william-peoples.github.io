@@ -1,4 +1,10 @@
 
+---
+layout: default
+title: Home
+permalink: /
+---
+
 {% include navigation.html %}
 
 # Hi, I'm Kevin Peoples.
