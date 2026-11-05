@@ -6,17 +6,38 @@ permalink: /projects/
 
 {% include navigation.html %}
 
+
 # Projects
 
 ## Secure Notes App
 
 **Independent Software Engineering & Cybersecurity Project**
 
-A personal project focused on developing a secure notes application.
+Developed a browser-based notes application using JavaScript, HTML, CSS, and the Web Crypto API.
 
-**Project Details:** Coming soon.
+Implemented AES-256-GCM encryption, PBKDF2-SHA-256 key derivation, password-based note unlocking, and encrypted local storage to protect saved notes.
 
-**GitHub Repository:** To be added during Phase 2.
+**Key Technologies:** JavaScript, Web Crypto API, HTML, CSS
+
+**Key Areas:** Applied Cryptography, Secure Storage, Frontend Development
+
+**GitHub Repository:** [Secure Notes App](https://github.com/kevin-william-peoples/secure-notes-app)
+
+---
+
+## Personal Portfolio Website
+
+**Independent Web Development Project**
+
+Built and deployed a personal portfolio website using Jekyll, HTML, CSS, and GitHub Pages.
+
+Organized responsive pages showcasing technical projects, research publications, professional experience, and contact information.
+
+**Key Technologies:** Jekyll, HTML, CSS, GitHub Pages
+
+**GitHub Repository:** [Portfolio Repository](https://github.com/kevin-william-peoples/kevin-william-peoples.github.io)
+
+**Live Website:** [View Portfolio](https://kevin-william-peoples.github.io/)
 
 ---
 
