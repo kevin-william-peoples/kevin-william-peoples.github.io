@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Experience
@@ -8,27 +9,29 @@ permalink: /experience/
 
 # Experience
 
-## Frontend Engineering Intern
+## Frontend Development Intern
 
-**AutomatiqIQ — April 2026 – September 2026**
+**AutomatiqGPT — April 2026 – September 2026**
 
-Developed responsive and user-focused interfaces for an AI-powered web platform using React.js and Tailwind CSS.
+Assisted with frontend UI maintenance and updates for an AI-powered web platform using React.js and Tailwind CSS.
 
-Built reusable components, implemented UI/UX improvements, and integrated frontend functionality with APIs to deliver seamless and performant user experiences.
+Implemented and tested assigned interface changes, including button adjustments, typography updates, and styling fixes, using AI-assisted development tools.
 
-**Key Areas:** Frontend Development, React.js, Tailwind CSS, UI/UX, API Integration
+Worked within an existing codebase and used Git branches to organize and commit frontend changes.
+
+**Key Areas:** Frontend Development, UI Maintenance, React.js, Tailwind CSS, Git
 
 ---
 
-## Technical Tutor – EDS 124AR & EDS 124BR
+## Computing Education Teaching Practicum – EDS 124AR & EDS 124BR
 
 **University of California, San Diego — June 2025 – September 2025**
 
-Supported students with computing and programming concepts across courses focused on the digital world and computational thinking.
+Completed university coursework in computing education, combining instructional methods with practical teaching assignments.
 
-Guided students through concepts including programming fundamentals, algorithms, abstraction, data and analysis, digital systems, and project development.
+Applied teaching methods to coding and computational thinking activities involving programming fundamentals, algorithms, abstraction, and digital systems.
 
-**Key Areas:** Programming Fundamentals, Computational Thinking, Algorithms, Digital Systems, Technical Mentoring
+**Key Areas:** Computing Education, Programming Fundamentals, Computational Thinking, Algorithms, Teaching Methods
 
 ---
 
@@ -36,8 +39,8 @@ Guided students through concepts including programming fundamentals, algorithms,
 
 **University of California, San Diego — January 2024 – March 2024**
 
-Provided one-on-one mathematics tutoring to students in a public high school setting as part of UC San Diego's ERC 89 Practicum in Math Tutoring.
+Provided supervised one-on-one mathematics tutoring to students in public high schools as part of UC San Diego's ERC 89 Practicum.
 
-Supported students through individualized instruction and structured problem-solving while developing experience in mathematics tutoring and pedagogy.
+Applied mathematics pedagogy and individualized instruction to support students' mathematical understanding and problem-solving skills.
 
-**Key Areas:** Mathematics, One-on-One Tutoring, Problem-Solving, Pedagogy
+**Key Areas:** Mathematics Education, One-on-One Tutoring, Problem-Solving, Pedagogy
