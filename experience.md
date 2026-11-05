@@ -33,6 +33,10 @@ Applied teaching methods to coding and computational thinking activities involvi
 
 **Key Areas:** Computing Education, Programming Fundamentals, Computational Thinking, Algorithms, Teaching Methods
 
+**Certificates**
+- [Teaching Computation in the Digital World (EDS 124AR)](https://www.coursera.org/account/accomplishments/verify/Y2EAKZUXRM0L)
+- [Teaching Computational Thinking for Everyone (EDS 124BR)](https://www.coursera.org/account/accomplishments/verify/UR4FXVTFKEDW)
+
 ---
 
 ## Mathematics Tutor – ERC 89 Practicum
