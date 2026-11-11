@@ -25,6 +25,20 @@ Implemented AES-256-GCM encryption, PBKDF2-SHA-256 key derivation, password-base
 
 ---
 
+## Verifying Claude's Clique
+
+**NYU Tandon — Graduate Cryptography Course Project**
+
+Developed a Python-based application to generate graph instances and verify proposed clique solutions using graph algorithms.
+
+Implemented benchmarking to compare the performance of clique verification against brute-force search, demonstrating significant computational speedups.
+
+**Key Technologies:** Python, Streamlit
+
+**Key Areas:** Cryptography, Graph Algorithms, Computational Complexity, Algorithm Verification, Performance Benchmarking
+
+---
+
 ## Personal Portfolio Website
 
 **Independent Web Development Project**
