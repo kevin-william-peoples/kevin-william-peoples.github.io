@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Projects
@@ -5,7 +6,6 @@ permalink: /projects/
 ---
 
 {% include navigation.html %}
-
 
 # Projects
 
@@ -65,6 +65,8 @@ Conducted an internal security audit for a fictional organization, Botium Toys, 
 
 **Recommendation:** Identified a need to strengthen administrative and managerial controls, particularly separation of duties and least privilege.
 
+**Project Report:** [View PDF](/project-reports/botium-toys-security-audit.pdf)
+
 ---
 
 ## DoS Incident Response Analysis Using NIST CSF
@@ -76,6 +78,8 @@ Analyzed a simulated denial-of-service (DoS) attack involving a flood of ICMP pa
 **Key Areas:** NIST Cybersecurity Framework, Incident Response, DoS Attacks, Network Security, Firewalls, IDS/IPS
 
 **Security Measures:** Evaluated firewall rules, source IP verification, network monitoring, and IDS/IPS controls to improve detection and mitigation of malicious network traffic.
+
+**Project Report:** [View PDF](/project-reports/dos-incident-response-analysis.pdf)
 
 ---
 
@@ -91,6 +95,8 @@ Managed file and directory permissions in a Linux environment to ensure users ha
 
 **Tasks Performed:** Interpreted Linux permission strings, modified user and group permissions, secured hidden files, and restricted directory access to authorized users.
 
+**Project Report:** [View PDF](/project-reports/linux-file-permissions.pdf)
+
 ---
 
 ## Vulnerability Assessment and Risk Analysis
@@ -105,6 +111,8 @@ Conducted a qualitative vulnerability assessment of a publicly accessible databa
 
 **Tasks Performed:** Identified threat sources and threat events, assessed likelihood and severity, calculated risk scores, and proposed security controls to reduce identified risks.
 
+**Project Report:** [View PDF](/project-reports/vulnerability-assessment.pdf)
+
 ---
 
 ## Ransomware Incident Analysis
@@ -117,6 +125,8 @@ Analyzed a simulated ransomware incident affecting a healthcare organization and
 
 **Tasks Performed:** Documented the incident using the 5 W's framework, identified the attack vector and impact on business operations, and recorded security observations and potential preventative measures.
 
+**Project Report:** [View PDF](/project-reports/ransomware-incident-analysis.pdf)
+
 ---
 
 ## Access Control Automation with Python
@@ -128,3 +138,5 @@ Developed a Python algorithm to automate updates to an IP address allow list use
 **Technologies:** Python, File I/O
 
 **Key Areas:** Access Control, Security Automation, Lists, Loops, Conditional Statements, File Handling
+
+**Project Report:** [View PDF](/project-reports/access-control-python.pdf)
